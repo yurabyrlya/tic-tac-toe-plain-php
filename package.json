@@ -1,0 +1,15 @@
+{
+  "name": "ttt-api-test",
+  "version": "1.0.0",
+  "description": "Tic-Tac-Toe API game",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MantaRayMedia/ttt-api-test.git"
+  },
+  "author": "Jernej Slejko <jernej@mantaraymedia.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
