@@ -1,6 +1,5 @@
-# ttt-api-test
 
-This is a proof of concept for simple API Tic-Tac-Toe game
+ simple API Tic-Tac-Toe game
 
 ### Development requirements
 - OO PHP
